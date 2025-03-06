@@ -1,5 +1,14 @@
-## Porfolio of Projects and Tinkers
+# CyberWatchDoug
+A Portfolio of Projects and Tinkerings
 
+My passion is in cybersecurity and information assurance and security. However, my projects and tinkerings encompass the broader information security (IT) world.
+
+<!-- insert cool links here and trackers -->
+
+<!-- ## Projects
+A high-level overview of each of my github projects.  
+
+###  -->
 <!--
 **cyberwatchdoug/cyberwatchdoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
