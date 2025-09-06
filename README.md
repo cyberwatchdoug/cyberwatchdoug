@@ -3,6 +3,12 @@
 
 My passion is in cybersecurity and information assurance and security. However, my projects and tinkerings encompass the broader information security (IT) world.
 
+## Projects
+
+**homelab_ansible**
+
+  a collection of Ansible playbooks and scripts designed to automate the setup, configuration, backup, and management of services in a personal homelab environment. It includes automation for user bootstrapping, lightweight Kubernetes (k3s) deployment, Paperless-NGX backup routines, and secure credential management using Ansible Vault, with a focus on Fedora Linux and OpenMediaVault systems.
+
 <!-- insert cool links here and trackers -->
 
 <!-- ## Projects
