@@ -1,7 +1,11 @@
 # CyberWatchDoug
-📎 A Portfolio of Projects and Tinkerings
+Engineer by mind and of heart. I consider my work to be at the crossroads of infrastructure, security, and DevOps.
 
-My passion is in cybersecurity and information assurance and security. However, my projects and tinkerings encompass the broader information security (IT) world.
+In the mind of an engineer working in IT, every error is a puzzle waiting to teach something new. 
+
+What others see as failure, I see as feedback. It’s not just about solving the problem. It’s about becoming better with every line of code that didn’t work the first time.
+
+I also run a blog at [https://blog.cyberwatchdoug.com](https://blog.cyberwatchdoug.com)
 
 ## Projects
 
